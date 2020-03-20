@@ -1,2 +1,1 @@
-# landscape
-AI Landscape and Indicators
+# AI Landscape and Indicators
